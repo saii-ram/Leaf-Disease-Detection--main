@@ -1,0 +1,65 @@
+diseases:
+  late_blight:
+    display_name:
+      en: "Late Blight"
+      hi: "लेट ब्लाइट"
+    descriptions:
+      en: "A fungal-like disease causing dark lesions on leaves. Common in tomato and potato."
+      hi: "पत्तियों पर काले धब्बे पड़ने वाली बीमारी। टमाटर और आलू में सामान्य।"
+    recommendations:
+      global:
+        en:
+          - "Remove infected leaves and destroy them away from the field."
+          - "Avoid overhead irrigation; water at the base early in the morning."
+        hi:
+          - "संक्रमित पत्ते हटा कर खेत से दूर नष्ट करें।"
+          - "ओवरहेड सिंचाई से बचें; सुबह जड़ों पर पानी दें।"
+      IN:
+        en:
+          - "Use copper-based fungicides during high-risk periods; follow label rates."
+        hi:
+          - "जोखिम वाले समय पर कॉपर-आधारित कवकनाशी का उपयोग करें; लेबल पर बताए गए मात्राओं का पालन करें।"
+    legal_notice:
+      en: "Guidance only. Check local regulations before using chemical controls."
+      hi: "केवल मार्गदर्शन। रसायनों के उपयोग से पहले स्थानीय नियम जाँचे।"
+
+  bacterial_spot:
+    display_name:
+      en: "Bacterial Spot"
+      hi: "बैक्टीरियल स्पॉट"
+    descriptions:
+      en: "Bacterial lesions on leaves and fruit; spreads in warm, wet conditions."
+      hi: "पत्तियों व फलों पर बैक्टीरियल दाग; गर्म और गीले मौसम में फैलता है।"
+    recommendations:
+      global:
+        en:
+          - "Prune infected areas and improve air circulation."
+          - "Avoid working in wet fields to reduce spread."
+        hi:
+          - "संक्रमित हिस्सों को काटें और हवा का आवागमन बढ़ाएँ।"
+          - "गीले खेतों में काम करने से बचें।"
+      IN:
+        en:
+          - "Use disease-free transplants and rotate crops; consult local extension for bactericide options."
+        hi:
+          - "रोग-मुक्त ट्रांसप्लांट उपयोग करें और फसल-परिवर्तन अपनाएँ; बैक्टीराइड विकल्पों के लिए स्थानीय कृषि सेवाओं से सलाह लें।"
+    legal_notice:
+      en: "This is informational only."
+      hi: "यह केवल सूचना के लिए है।"
+
+  healthy:
+    display_name:
+      en: "Healthy Leaf"
+      hi: "स्वस्थ पत्ता"
+    descriptions:
+      en: "No disease detected."
+      hi: "कोई बीमारी नहीं मिली।"
+    recommendations:
+      global:
+        en:
+          - "Continue regular care; monitor plants weekly for any symptoms."
+        hi:
+          - "नियमित देखभाल जारी रखें; हर सप्ताह लक्षणों के लिए जांच करें।"
+    legal_notice:
+      en: "General advice only."
+      hi: "सामान्य सलाह केवल।"
